@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**leandrosdev/leandrosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Leandro's GitHub Profile 👋
 
-Here are some ideas to get you started:
+Hey there, my name is Leandro Santos and I'm software engineer at Imovy. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I live in Sao Paulo, programming some stuffs in my free time.
+
+- 💻 I’m currently working on [Imovy](https://building.com)
+- 🌱 I’m currently learning English and Computer Engineering
+- 💬 Ask me about Sao Paulo, React
+- 📫 How to reach me: leandrosantosdev@gmail.com or Twitter [@leandrosdev](twitter.com/leandrosdev)
+
+### 🌎 My Languages 🌎
+
+- 🇧🇷 Portuguese: native
+- 🇺🇸 English: A2
